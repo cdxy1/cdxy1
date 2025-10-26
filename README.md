@@ -14,24 +14,24 @@
 </div>
 
 ### 📊 The Numbers Game
-
 <img src="https://komarev.com/ghpvc/?username=cdxy1&color=blueviolet&style=flat-square&label=Profile%20Views" alt="Profile Views" />
-
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=cdxy1&show_icons=true&theme=dracula&count_private=true" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cdxy1&theme=dracula" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdxy1&layout=compact&theme=dracula&langs_count=8" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cdxy1&theme=dracula" />
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=cdxy1&theme=dracula" />
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cdxy1&theme=dracula" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cdxy1&theme=dracula&utcOffset=2" />
     </td>
   </tr>
 </table>
@@ -171,5 +171,4 @@ while True:
         sleep(4)  # hours
         continue
 ```
-
 
