@@ -16,11 +16,6 @@
 ### 📊 The Numbers Game
 <table align="center">
   <tr>
-    <td>
-    <img src="https://komarev.com/ghpvc/?username=cdxy1&color=blueviolet&style=flat-square&label=Profile%20Views" alt="Profile Views"/>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cdxy1&theme=dracula" />
     </td>
